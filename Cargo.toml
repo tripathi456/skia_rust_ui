@@ -1,0 +1,12 @@
+[package]
+name = "skia_rust_ui"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+# skia-safe = {version =  "0.66.3", features = ["all-linux"]}
+skia-safe = {version =  "0.82.0", features = ["all-linux"]}
+uuid = { version = "1.4", features = ["v4", "serde"] }
+
+[dev-dependencies]
+pretty_assertions = "1.4"
