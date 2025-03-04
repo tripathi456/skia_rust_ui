@@ -19,8 +19,8 @@ This project is a lightweight UI framework written in Rust. It provides a founda
 Clone the repository and build using Cargo:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/tripathi456/skia_rust_ui/
+cd skia_rust_ui
 cargo build
 ```
 
